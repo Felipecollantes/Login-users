@@ -33,14 +33,14 @@ npm start
 
 Una vez levantado el proyecto accedemos a http://localhost:4200/login
 
-# Paso en la aplicación
+# Pasos en la aplicación
 
-Para logearse en la aplicación habrá que registrarse previamente con un correo y contraseña (puede ser inventado).
-La primera vez que se registra te envía directamente a la tabla de usuarios.
-Se puede cerrar sesión con el boton del navbar "logout" y posteriormente hacer un login.
-Si el usuario ya existe (correo) no podrá registrarse de nuevo. 
-Si el usuario no existe, no podrá logearse ni acceder a la ruta de la tabla de usuarios ya que hay cread un Guard.
-La sesión se mantiene hasta que no se haga "logout".
-El registro/login de firebase trae como objeto un usuario con un uid propio, token y demás...
+- Para logearse en la aplicación habrá que registrarse previamente con un correo y contraseña (puede ser inventado).
+- La primera vez que se registra te envía directamente a la tabla de usuarios.
+- Se puede cerrar sesión con el boton del navbar "logout" y posteriormente hacer un login.
+- Si el usuario ya existe (correo) no podrá registrarse de nuevo. 
+- Si el usuario no existe, no podrá logearse ni acceder a la ruta de la tabla de usuarios ya que hay cread un Guard.
+- La sesión se mantiene hasta que no se haga "logout".
+- El registro/login de firebase trae como objeto un usuario con un uid propio, token y demás...
 
 
