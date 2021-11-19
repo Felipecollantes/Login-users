@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-usuarios-b72fc": {
+      "hosting": {
+        "users": [
+          "login-usuarios-b72fc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-usuarios-b72fc"
+  }
+}
